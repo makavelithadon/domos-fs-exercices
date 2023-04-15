@@ -1,0 +1,15 @@
+footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+
+  border-radius: 0 !important;
+
+  background-color: rgb(26 86 219 / var(--tw-bg-opacity)) !important;
+}
+
+footer * {
+  color: #fff !important;
+}

@@ -1,0 +1,27 @@
+.words {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.words__list {
+  width: 100%;
+}
+
+.word {
+  cursor: initial;
+}
+
+.word button {
+  cursor: initial;
+  outline: none !important;
+  outline-offset: 0 !important;
+  box-shadow: none !important;
+}
+
+.word button:hover,
+.word button:focus {
+  background: none !important;
+  color: initial;
+}

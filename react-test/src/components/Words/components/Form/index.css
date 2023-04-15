@@ -1,0 +1,9 @@
+form {
+  display: flex;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+}
+
+.words-container {
+  flex: 2;
+}
